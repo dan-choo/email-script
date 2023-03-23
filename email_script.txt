@@ -1,0 +1,17 @@
+Hi {firstname} {lastname},
+
+This is just a quick email to better inform you about your current progress/grades in EECS 376. We've listed out your current grade totals in the table below.
+
+Note that these grades only consider Homeworks 1-6 and we're only factoring in one drop. We're also assuming that you did the surveys so this may not be the most accurate estimation.
+
+If you feel concerned about your grades, we're here to help! You can come to office hours to discuss anything about your grades or current progress.
+
+--376 Staff
+
+(The maximum grade is 100 for all the categories)
+Homework: {hwavg}
+Midterm: {midterm}
+Surveys: 100
+Overall Grade: {overallgrade}
+Current Letter Grade: {lettergrade}
+
